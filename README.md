@@ -109,8 +109,11 @@ Output Waveform
 
 TABULATION:
 
+![WhatsApp Image 2025-10-07 at 13 41 58_524efd46](https://github.com/user-attachments/assets/59010d67-6085-4623-8c7d-c1fd4871afed)
 
-![WhatsApp Image 2025-08-08 at 15 53 43_8c6a1a33](https://github.com/user-attachments/assets/8265f03f-5c05-4299-9a48-dd133d5d9623)
+
+![WhatsApp Image 2025-10-07 at 13 41 58_ab776c9b](https://github.com/user-attachments/assets/df66b56d-99b4-476b-a51e-479cb053b765)
+
 
 Calculation
 1.	ma (Theory) = am/ac =4.9/9.4=0.52
